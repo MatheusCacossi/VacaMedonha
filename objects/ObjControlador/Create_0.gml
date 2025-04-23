@@ -1,0 +1,1 @@
+global.ativademonho = false
