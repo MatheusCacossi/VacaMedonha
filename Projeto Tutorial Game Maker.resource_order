@@ -24,5 +24,6 @@
     {"name":"SprCenarioFofo","order":1,"path":"sprites/SprCenarioFofo/SprCenarioFofo.yy",},
     {"name":"SprComida","order":3,"path":"sprites/SprComida/SprComida.yy",},
     {"name":"SprRadio","order":5,"path":"sprites/SprRadio/SprRadio.yy",},
+    {"name":"SprRadoi","order":4,"path":"sprites/SprRadoi/SprRadoi.yy",},
   ],
 }

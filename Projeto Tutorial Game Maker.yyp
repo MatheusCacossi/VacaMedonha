@@ -46,6 +46,7 @@
     {"id":{"name":"SprCogumelo","path":"sprites/SprCogumelo/SprCogumelo.yy",},},
     {"id":{"name":"SprComida","path":"sprites/SprComida/SprComida.yy",},},
     {"id":{"name":"SprRadio","path":"sprites/SprRadio/SprRadio.yy",},},
+    {"id":{"name":"SprRadoi","path":"sprites/SprRadoi/SprRadoi.yy",},},
     {"id":{"name":"TileCenarioFofo","path":"tilesets/TileCenarioFofo/TileCenarioFofo.yy",},},
   ],
   "resourceType":"GMProject",
