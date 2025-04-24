@@ -23,6 +23,6 @@
     {"name":"Spdemonho","order":2,"path":"sprites/Spdemonho/Spdemonho.yy",},
     {"name":"SprCenarioFofo","order":1,"path":"sprites/SprCenarioFofo/SprCenarioFofo.yy",},
     {"name":"SprComida","order":3,"path":"sprites/SprComida/SprComida.yy",},
-    {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"SprRadio","order":5,"path":"sprites/SprRadio/SprRadio.yy",},
   ],
 }

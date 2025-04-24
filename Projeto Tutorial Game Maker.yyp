@@ -45,7 +45,7 @@
     {"id":{"name":"SprCenarioFofo","path":"sprites/SprCenarioFofo/SprCenarioFofo.yy",},},
     {"id":{"name":"SprCogumelo","path":"sprites/SprCogumelo/SprCogumelo.yy",},},
     {"id":{"name":"SprComida","path":"sprites/SprComida/SprComida.yy",},},
-    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
+    {"id":{"name":"SprRadio","path":"sprites/SprRadio/SprRadio.yy",},},
     {"id":{"name":"TileCenarioFofo","path":"tilesets/TileCenarioFofo/TileCenarioFofo.yy",},},
   ],
   "resourceType":"GMProject",
